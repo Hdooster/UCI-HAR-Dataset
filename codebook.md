@@ -41,3 +41,5 @@ Using ddply(), we split the dataframe by subject and activity, take the mean of 
 	
 
 The result is a 'tidyData' dataframe of 180 observations of 68 variables, each observation a row of 68 variable means of an activity a specific subject is doing.
+
+RESULTS
