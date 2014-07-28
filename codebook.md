@@ -43,3 +43,74 @@ Using ddply(), we split the dataframe by subject and activity, take the mean of 
 The result is a 'tidyData' dataframe of 180 observations of 68 variables, each observation a row of 68 variable means of an activity a specific subject is doing.
 
 RESULTS
+========
+| Variable | Type |
+| ------------- | :-------------: |
+| Subject_ID | int |
+| Activity_ID | chr |
+| Time Signal of Body Accelerometer - Mean Value on X axis | num |
+| Time Signal of Body Accelerometer - Mean Value on Y axis | num |
+| Time Signal of Body Accelerometer - Mean Value on Z axis | num |
+| Time Signal of Gravity Accelerometer - Mean Value on X axis | num |
+| Time Signal of Gravity Accelerometer - Mean Value on Y axis | num |
+| Time Signal of Gravity Accelerometer - Mean Value on Z axis | num |
+| Time Signal of Body Accelerometer Jerk - Mean Value on X axis | num |
+| Time Signal of Body Accelerometer Jerk - Mean Value on Y axis | num |
+| Time Signal of Body Accelerometer Jerk - Mean Value on Z axis | num |
+| Time Signal of Body Gyroscope - Mean Value on X axis | num |
+| Time Signal of Body Gyroscope - Mean Value on Y axis | num |
+| Time Signal of Body Gyroscope - Mean Value on Z axis | num |
+| Time Signal of Body Gyroscope Jerk - Mean Value on X axis | num |
+| Time Signal of Body Gyroscope Jerk - Mean Value on Y axis | num |
+| Time Signal of Body Gyroscope Jerk - Mean Value on Z axis | num |
+| Time Signal of Body Accelerometer Magnitude - Mean Value | num |
+| Time Signal of Gravity Accelerometer Magnitude - Mean Value | num |
+| Time Signal of Body Accelerometer Jerk Magnitude - Mean Value | num |
+| Time Signal of Body Gyroscope Magnitude - Mean Value | num |
+| Time Signal of Body Gyroscope Jerk Magnitude - Mean Value | num |
+| Frequency Signal of Body Accelerometer - Mean Value on X axis | num |
+| Frequency Signal of Body Accelerometer - Mean Value on Y axis | num |
+| Frequency Signal of Body Accelerometer - Mean Value on Z axis | num |
+| Frequency Signal of Body Accelerometer Jerk - Mean Value on X axis | num |
+| Frequency Signal of Body Accelerometer Jerk - Mean Value on Y axis | num |
+| Frequency Signal of Body Accelerometer Jerk - Mean Value on Z axis | num |
+| Frequency Signal of Body Gyroscope - Mean Value on X axis | num |
+| Frequency Signal of Body Gyroscope - Mean Value on Y axis | num |
+| Frequency Signal of Body Gyroscope - Mean Value on Z axis | num |
+| Frequency Signal of Body Accelerometer Magnitude - Mean Value | num |
+| Frequency Signal of BodyBody Accelerometer Jerk Magnitude - Mean Value | num |
+| Frequency Signal of BodyBody Gyroscope Magnitude - Mean Value | num |
+| Frequency Signal of BodyBody Gyroscope Jerk Magnitude - Mean Value | num |
+| Time Signal of Body Accelerometer - Standard deviation on X axis | num |
+| Time Signal of Body Accelerometer - Standard deviation on Y axis | num |
+| Time Signal of Body Accelerometer - Standard deviation on Z axis | num |
+| Time Signal of Gravity Accelerometer - Standard deviation on X axis | num |
+| Time Signal of Gravity Accelerometer - Standard deviation on Y axis | num |
+| Time Signal of Gravity Accelerometer - Standard deviation on Z axis | num |
+| Time Signal of Body Accelerometer Jerk - Standard deviation on X axis | num |
+| Time Signal of Body Accelerometer Jerk - Standard deviation on Y axis | num |
+| Time Signal of Body Accelerometer Jerk - Standard deviation on Z axis | num |
+| Time Signal of Body Gyroscope - Standard deviation on X axis | num |
+| Time Signal of Body Gyroscope - Standard deviation on Y axis | num |
+| Time Signal of Body Gyroscope - Standard deviation on Z axis | num |
+| Time Signal of Body Gyroscope Jerk - Standard deviation on X axis | num |
+| Time Signal of Body Gyroscope Jerk - Standard deviation on Y axis | num |
+| Time Signal of Body Gyroscope Jerk - Standard deviation on Z axis | num |
+| Time Signal of Body Accelerometer Magnitude - Standard deviation | num |
+| Time Signal of Gravity Accelerometer Magnitude - Standard deviation | num |
+| Time Signal of Body Accelerometer Jerk Magnitude - Standard deviation | num |
+| Time Signal of Body Gyroscope Magnitude - Standard deviation | num |
+| Time Signal of Body Gyroscope Jerk Magnitude - Standard deviation | num |
+| Frequency Signal of Body Accelerometer - Standard deviation on X axis | num |
+| Frequency Signal of Body Accelerometer - Standard deviation on Y axis | num |
+| Frequency Signal of Body Accelerometer - Standard deviation on Z axis | num |
+| Frequency Signal of Body Accelerometer Jerk - Standard deviation on X axis | num |
+| Frequency Signal of Body Accelerometer Jerk - Standard deviation on Y axis | num |
+| Frequency Signal of Body Accelerometer Jerk - Standard deviation on Z axis | num |
+| Frequency Signal of Body Gyroscope - Standard deviation on X axis | num |
+| Frequency Signal of Body Gyroscope - Standard deviation on Y axis | num |
+| Frequency Signal of Body Gyroscope - Standard deviation on Z axis | num |
+| Frequency Signal of Body Accelerometer Magnitude - Standard deviation | num |
+| Frequency Signal of BodyBody Accelerometer Jerk Magnitude - Standard deviation | num |
+| Frequency Signal of BodyBody Gyroscope Magnitude - Standard deviation | num |
+| Frequency Signal of BodyBody Gyroscope Jerk Magnitude - Standard deviation | num |
